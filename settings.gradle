@@ -1,0 +1,3 @@
+include ':EasyAndroidAnimations'
+include ':app'
+rootProject.name = "testDeploy"
